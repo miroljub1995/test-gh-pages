@@ -1,5 +1,6 @@
 {
   "name": "test-gh-pages",
+  "homepage": "https://miroljub1995.github.io/test-gh-pages",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
